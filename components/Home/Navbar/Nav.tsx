@@ -36,7 +36,7 @@ const Nav = ({openNav}: Props) => {
           <div className='flex items-center justify-center flex-col w-10 h-10 bg-rose-500 rounded-full'>
             <TbAirBalloon className='w-6 h-6 text-white' />
           </div>
-          <h1 className='text-white text-xl md:text-2xl font-bold uppercase '>Tripi</h1>
+          <h1 className='text-white text-xl md:text-2xl font-bold uppercase '>tutku</h1>
         </div>
         
         {/* NavLinks */}
